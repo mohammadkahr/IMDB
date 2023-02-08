@@ -11,7 +11,7 @@
     
     
     
-    writed by Deadly gray: 
+    Written by Deadly gray: 
     Mohammadkazem Harandi
     Kimia Arjmand:
     http://www.linkedin.com/in/kim-arj-552568255
