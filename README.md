@@ -5,7 +5,6 @@
     Android project of data structure
     Dr.Ramezani
     October 2022
-    data structure
     
     
     kotlin
